@@ -1,5 +1,5 @@
 import unittest
-from HW4 import GitZeHu
+from HW4 import GitZeHub
 
 class testHW4GitHub(unittest.TestCase):
     def testUser1(self):
